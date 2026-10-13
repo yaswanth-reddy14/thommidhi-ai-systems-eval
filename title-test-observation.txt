@@ -1,0 +1,31 @@
+# Title Test — 12 October 2026
+
+**Workflow:** Make next — title comparison  
+**Status:** Completed  
+**Simulation reference:** sim_4h65qfaylg
+
+## Inputs
+- A: Why Your Phone Battery Suddenly Drops at 20%
+- B: Phone Battery Drops From 20% to 1%? Here's What to Check
+- My pick: B
+
+## Observed behavior
+- The simulated audience leaned slightly toward B.
+- The product displayed reasons based on utility and specificity.
+- The product warned that screen position influenced the result and recommended reversing title order for a repeat test.
+- The modelled audience was Hindi-speaking, ages 18–34, in the Hindi belt; it was not yet weighted to my channel.
+- The product distinguished synthetic audience results from real viewer polling and post-publication performance.
+
+## Evaluation
+**Positive:** Clear uncertainty warning, visible rationale, and explicit disclosure of audience limitations.
+
+**Limitation:** Position bias may affect the result. The simulated preference does not establish real-world click-through rate or guarantee views.
+
+**Follow-up:** Repeat with reversed title order and compare with real audience responses if available.
+
+## Evidence
+- Screenshot: evidence/title-test/title-test-12-Oct.png
+- Simulation reference: sim_4h65qfaylg
+
+## Outcome
+The title-comparison workflow completed successfully. This is not evidence that the title prediction is accurate in the real world.

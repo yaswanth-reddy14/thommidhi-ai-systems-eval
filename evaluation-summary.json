@@ -1,0 +1,15 @@
+{
+  "input_file": "C:\\Users\\DELL\\thommidhi-review\\results.csv",
+  "rows_recorded": 20,
+  "unique_case_ids_recorded": 20,
+  "counts": {
+    "PASS": 3,
+    "FAIL": 1,
+    "INCONCLUSIVE": 16,
+    "INVALID": 0
+  },
+  "task_success_rate": 0.75,
+  "coverage": 1,
+  "total_suggested_cases": 20,
+  "caveat": "Metrics are only as reliable as your manual scoring and evidence. This script does not verify whether PASS/FAIL labels are correct."
+}

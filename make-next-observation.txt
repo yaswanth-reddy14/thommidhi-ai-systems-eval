@@ -1,0 +1,17 @@
+# Make Next — Brief Generation
+
+Date: 12 October 2026
+
+**Initial issue:** “Write the brief” remained disabled although both treatment forms appeared complete.
+
+**Action:** Re-entered the treatment details and checked the selections.
+
+**Observed outcome:** The button became enabled, and the brief generated successfully in Hindi.
+
+**Positive observations:** Generated a hook, title suggestions, numbered content sections, filming notes, and a partner-disclosure section.
+
+**Open questions:** Whether both treatments influenced the output; factual accuracy of technical claims; fit to the intended audience and duration.
+
+**Assessment:** Workflow progressed successfully. Overall quality remains INCONCLUSIVE until the full brief is reviewed.
+
+**Evidence:** Screenshots in `evidence/make-next/`.
